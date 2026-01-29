@@ -1,5 +1,5 @@
 public class UnitCircle implements Comparable<UnitCircle> {
-	int radius;
+	private int radius;
 	
 	public UnitCircle(int radius) {
 		this.radius = radius;
